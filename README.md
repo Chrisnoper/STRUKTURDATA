@@ -1,2 +1,2 @@
 # STRUKTURDATA
-![Image](https://github.com/user-attachments/assets/d929f878-b5ce-49e7-9385-264bfc90a65e)
+![Image](https://github.com/user-attachments/assets/7c9bc414-bccd-4817-a4be-916dd9618b57)
