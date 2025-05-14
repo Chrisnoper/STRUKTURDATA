@@ -4,6 +4,6 @@ using namespace std;
 int main() {
     string nama = "hello world";
 
-    cout << "HELLO WORLD" << endl;
+    cout <<  nama<< endl;
     return 0;
 }
